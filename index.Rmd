@@ -3,3 +3,5 @@ title: "Hippocrasy etc."
 site: distill::distill_website
 listing: posts
 ---
+
+Welcome to the blog for Hippocrasy, the book.

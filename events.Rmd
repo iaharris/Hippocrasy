@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ### Book launch  
-The book will be released on October 1, 2021 by NewSouth Books
+The book will be released on October 1, 2021 by NewSouth Books.
 
 ### First, Do No Harm: The Perils of Too Much Medicine and How We Can Tackle It  
 
