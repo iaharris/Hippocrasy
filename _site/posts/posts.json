@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2021-06-10-events/",
+    "title": "Events",
+    "description": "A list of media and book-related events.",
+    "author": [
+      {
+        "name": "Rachelle Buchbiner and Ian Harris",
+        "url": "https://github.com/iaharris/Hippocrasy.git"
+      }
+    ],
+    "date": "2021-06-10",
+    "categories": [],
+    "contents": "\r\nBook launch\r\nThe book will be released on October 1, 2021 by NewSouth Books\r\nFirst, Do No Harm: The Perils of Too Much Medicine and How We Can Tackle It\r\nA compelling on-line session open to the public, patients, and health professionals, featuring the authors of Hippocrasy and Dr Ranjana Srivastava, author, cancer doctor and Guardian columnist.\r\nTime: Monday October 11, 9am - 11 am Limited places, but register for this Free interactive meeting here\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-10T16:33:02+10:00",
+    "input_file": "events.utf8.md"
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to 'Hippocrasy etc.'",
+    "description": "Welcome to **Hippocrasy etc.**, a blog that provides information about, and supplemental to the book: *Hippocrasy, how doctors are betraying their oath*.",
+    "author": [
+      {
+        "name": "Rachelle Buchbinder and Ian Harris",
+        "url": "https://github.com/iaharris/Hippocrasy.git"
+      }
+    ],
+    "date": "2021-06-10",
+    "categories": [],
+    "contents": "\r\nBlog post #1\r\nWe are excited to announce that Hippocrasy will be release by NewSouth Books on October 1, 2021. Stay tuned for events around that time - we will update them in the Events page\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-06-10T16:33:27+10:00",
+    "input_file": "welcome.utf8.md"
+  }
+]

@@ -1,0 +1,30 @@
+---
+title: "Events"
+description: |
+  A list of media and book-related events.
+author:
+  - name: Rachelle Buchbiner and Ian Harris
+    url: https://github.com/iaharris/Hippocrasy.git
+date: 06-10-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Book launch  
+The book will be released on October 1, 2021 by NewSouth Books
+
+### First, Do No Harm: The Perils of Too Much Medicine and How We Can Tackle It  
+
+A compelling on-line session open to the public, patients, and health professionals, featuring the authors of *Hippocrasy* and Dr Ranjana Srivastava, author, cancer doctor and Guardian columnist. 
+
+Time: Monday October 11, 9am - 11 am
+Limited places, but register for this Free interactive meeting [here](http://wiserhealthcare.org.au)
+
+
+
