@@ -1,0 +1,21 @@
+---
+title: "About this blog"
+description: |
+  Who we are and what we are doing here
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+### About the book  
+*Hippocrasy, how doctors are betraying their oath* is about what is wrong with modern medicine. Our position is that medicine, as practiced today, is not fit for purpose. Medicine does not do the job asked of it: it is a system that is designed to maximise health care, not health. In achieving it's purpose of delivering health *care*, it harms and wastes, through perverse incentives and unintended consequences.
+
+By using each individual pledge of the (modern) Hippocratic Oath as chapter headings, the book outlines the problems with modern medicine, including our over-reliance on medicine, over-diagnosis, over-treatment, the medicalisation of normal and the underlying lack of scientific scrutiny of medical practice, allowing us to consistently overestimate the benefits and underestimate the harms from medicine.
+
+### About the authors  
+Both authors are practicing clinicians (one a surgeon and one a physician) and researchers in the field of evidence-based medicine. Both are professors with higher degrees in clinical epidemiology and both are Fellows of the AUtralian Academy of Health and Medical Sciences. 
+
+With approximately 1,000 peer-reviewed publications between them, including in leading journals such as *The New England Journal of Medicine*, *The Lancet*, *JAMA* and the *BMJ* and multiple other publications including books, reviews and guidelines, they are internationally recognised as leaders in their fields and in the evaluation of the effectivenes sof medical interventions.
+
+### About the blog  
+The blog is supplemental to the book. We wil refer to the book and provide information and the odd excerpt, but it is also for use to post news about the book and any related events (talks, media appearances etc.) and possibly to add new posts on material not included in the book.

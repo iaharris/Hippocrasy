@@ -9,11 +9,19 @@
       "last_modified": "2021-06-10T16:56:05+10:00"
     },
     {
+      "path": "events.html",
+      "title": "Events",
+      "description": "A list of media and book-related events.",
+      "author": [],
+      "contents": "\r\nBook launch\r\nThe book will be released on October 1, 2021 by NewSouth Books\r\nFirst, Do No Harm: The Perils of Too Much Medicine and How We Can Tackle It\r\nA compelling on-line session open to the public, patients, and health professionals, featuring the authors of Hippocrasy and Dr Ranjana Srivastava, author, cancer doctor and Guardian columnist.\r\nTime: Monday October 11, 9am - 11 am Limited places, but register for this Free interactive meeting here\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-10T17:11:44+10:00"
+    },
+    {
       "path": "index.html",
       "title": "Hippocrasy etc.",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-06-10T16:55:46+10:00"
+      "last_modified": "2021-06-10T16:56:27+10:00"
     }
   ],
   "collections": ["posts/posts.json"]
